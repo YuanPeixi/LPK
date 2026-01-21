@@ -1,0 +1,4 @@
+100
+TRUE
+TRUE
+notepad.exe
