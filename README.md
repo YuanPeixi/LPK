@@ -3,12 +3,12 @@
 ## Introduction
 This is used to ban window with keywords
 
-## Kill Window
+## LPK React
 This uses __SetWinEventHook__ to achieve reactive block
 
+Light, Quick and powerful
 
 ```text
-[checkInterval in ms]
 [Match Ambiguously in Boolean]
 [Kill Process (FALSE for CloseWindow) in Boolean]
 
